@@ -30,6 +30,22 @@ I have created Profit and Loss reports for Fiscal Years and Months. We can find 
 I have created Profit and Loss reports by markets.
 ### Created % Gross Margins by Quarters(sub_zone):
 I have  generated % Gross Margins by Quarters of different sub_zone.
+# Reports : 
+1. _[Customer Performance Report](https://github.com/souvikmazumdar/Advanced-Excel-Sales-And-Financial-Analysis-For-AtliQ-Hardwares/blob/main/Customer%20Performence%20Report.pdf)_ 
+2. _[Market Performance Vs Targets](https://github.com/souvikmazumdar/Advanced-Excel-Sales-And-Financial-Analysis-For-AtliQ-Hardwares/blob/main/Market%20Performence%20vs%20Target.pdf)_ 
+3. _[Top 10 products](https://github.com/souvikmazumdar/Advanced-Excel-Sales-And-Financial-Analysis-For-AtliQ-Hardwares/blob/main/Top%2010%20Products.pdf)_ 
+4. _[Division Level Report](https://github.com/souvikmazumdar/Advanced-Excel-Sales-And-Financial-Analysis-For-AtliQ-Hardwares/blob/main/Division%20Level%20Report.pdf)_ 
+5. _[Top 5 and bottom 5 products report](https://github.com/souvikmazumdar/Advanced-Excel-Sales-And-Financial-Analysis-For-AtliQ-Hardwares/blob/main/Top%20%26%20Bottom%205%20Products%20-%20Qty.pdf)_ 
+6. _[Top 5 Countries report](https://github.com/souvikmazumdar/Advanced-Excel-Sales-And-Financial-Analysis-For-AtliQ-Hardwares/blob/main/Top%205%20Countries%20Sales%202021.pdf)_
+7. _[P/L reports(Fiscal Year)](https://github.com/souvikmazumdar/Advanced-Excel-Sales-And-Financial-Analysis-For-AtliQ-Hardwares/blob/main/P%20%26%20L%20Statement%20by%20Fiscal%20Years.pdf)_
+8. _[P/L reports(FY Months)](https://github.com/souvikmazumdar/Advanced-Excel-Sales-And-Financial-Analysis-For-AtliQ-Hardwares/blob/main/P%20%26%20L%20Statement%20by%20Months.pdf)_
+9. _[P/L reports(Markets)](https://github.com/souvikmazumdar/Advanced-Excel-Sales-And-Financial-Analysis-For-AtliQ-Hardwares/blob/main/P%20%26%20L%20Statement%20by%20Markets.pdf)_
+10. _[% Gross Margins by Quarters(sub_zone)](https://github.com/souvikmazumdar/Advanced-Excel-Sales-And-Financial-Analysis-For-AtliQ-Hardwares/blob/main/GM%20%25%20Subzone.pdf)_
+11. _[Top New Products 2021](https://github.com/souvikmazumdar/Advanced-Excel-Sales-And-Financial-Analysis-For-AtliQ-Hardwares/blob/main/New%20Products%202021.pdf)_
+12. _[P & L Market by Year 2019](https://github.com/souvikmazumdar/Advanced-Excel-Sales-And-Financial-Analysis-For-AtliQ-Hardwares/blob/main/P%20%26%20L%20market%20by%20year%202019.pdf)_
+13. _[P & L Market by Year 2020](https://github.com/souvikmazumdar/Advanced-Excel-Sales-And-Financial-Analysis-For-AtliQ-Hardwares/blob/main/P%20%26%20L%20market%20by%20year%202020.pdf)_
+14. _[P & L Market by Year 2021](https://github.com/souvikmazumdar/Advanced-Excel-Sales-And-Financial-Analysis-For-AtliQ-Hardwares/blob/main/P%20%26%20L%20market%20by%20year%202021.pdf)_
+
 # Key Insights:
 1.	Learned how business analysts can uncover business opportunities.
 2.	Created project priority matrix it helps project managers to prioritize projects.
@@ -51,22 +67,3 @@ I have  generated % Gross Margins by Quarters of different sub_zone.
 - [x]	Designing user-centric reports with empathy in mind.
 - [x]	Optimization of report generation through meticulous fine-tuning.
 - [x]	Developing a systematic approach to devising a report building plan.
-
-# Reports : 
-1. _[Customer Performance Report](https://github.com/souvikmazumdar/Advanced-Excel-Sales-And-Financial-Analysis-For-AtliQ-Hardwares/blob/main/Customer%20Performence%20Report.pdf)_ 
-2. _[Market Performance Vs Targets](https://github.com/souvikmazumdar/Advanced-Excel-Sales-And-Financial-Analysis-For-AtliQ-Hardwares/blob/main/Market%20Performence%20vs%20Target.pdf)_ 
-3. _[Top 10 products](https://github.com/souvikmazumdar/Advanced-Excel-Sales-And-Financial-Analysis-For-AtliQ-Hardwares/blob/main/Top%2010%20Products.pdf)_ 
-4. _[Division Level Report](https://github.com/souvikmazumdar/Advanced-Excel-Sales-And-Financial-Analysis-For-AtliQ-Hardwares/blob/main/Division%20Level%20Report.pdf)_ 
-5. _[Top 5 and bottom 5 products report](https://github.com/souvikmazumdar/Advanced-Excel-Sales-And-Financial-Analysis-For-AtliQ-Hardwares/blob/main/Top%20%26%20Bottom%205%20Products%20-%20Qty.pdf)_ 
-6. _[Top 5 Countries report](https://github.com/souvikmazumdar/Advanced-Excel-Sales-And-Financial-Analysis-For-AtliQ-Hardwares/blob/main/Top%205%20Countries%20Sales%202021.pdf)_
-7. _[P/L reports(Fiscal Year)](https://github.com/souvikmazumdar/Advanced-Excel-Sales-And-Financial-Analysis-For-AtliQ-Hardwares/blob/main/P%20%26%20L%20Statement%20by%20Fiscal%20Years.pdf)_
-8. _[P/L reports(FY Months)](https://github.com/souvikmazumdar/Advanced-Excel-Sales-And-Financial-Analysis-For-AtliQ-Hardwares/blob/main/P%20%26%20L%20Statement%20by%20Months.pdf)_
-9. _[P/L reports(Markets)](https://github.com/souvikmazumdar/Advanced-Excel-Sales-And-Financial-Analysis-For-AtliQ-Hardwares/blob/main/P%20%26%20L%20Statement%20by%20Markets.pdf)_
-10. _[% Gross Margins by Quarters(sub_zone)](https://github.com/souvikmazumdar/Advanced-Excel-Sales-And-Financial-Analysis-For-AtliQ-Hardwares/blob/main/GM%20%25%20Subzone.pdf)_
-11. _[Top New Products 2021](https://github.com/souvikmazumdar/Advanced-Excel-Sales-And-Financial-Analysis-For-AtliQ-Hardwares/blob/main/New%20Products%202021.pdf)_
-12. _[P & L Market by Year 2019](https://github.com/souvikmazumdar/Advanced-Excel-Sales-And-Financial-Analysis-For-AtliQ-Hardwares/blob/main/P%20%26%20L%20market%20by%20year%202019.pdf)_
-13. _[P & L Market by Year 2020](https://github.com/souvikmazumdar/Advanced-Excel-Sales-And-Financial-Analysis-For-AtliQ-Hardwares/blob/main/P%20%26%20L%20market%20by%20year%202020.pdf)_
-14. _[P & L Market by Year 2021](https://github.com/souvikmazumdar/Advanced-Excel-Sales-And-Financial-Analysis-For-AtliQ-Hardwares/blob/main/P%20%26%20L%20market%20by%20year%202021.pdf)_
-
-
-
