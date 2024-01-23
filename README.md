@@ -37,3 +37,17 @@ I have  generated % Gross Margins by Quarters of different sub_zone.
 4.	Understand the Pivot Table Summarization and Power Pivot. It can summarize, sort, reorganize, group, count, total, or average data. It helps users create interactive dashboards and generate reports.
 5.	Recognizing importance of Conditional Formatting. It changes the appearance of cells based on specified conditions. It can help highlight certain values or make cells easy to identify.
 6.	We are learning with some real-life projects. It helps to understand every concept easily.
+   
+## Technical Skills:
+- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
+- [x]	Skills to generate a date table using Power Query.
+- [x]	Ability to derive fiscal months and quarters.
+- [x]	Establishing data model relationships with Power Pivot.
+- [x]	Proficiency in incorporating supplementary data into an existing data model.
+- [x]	Utilizing DAX to create calculated columns.
+
+## Soft Skills:
+- [x]	Refined understanding of Sales & Finance Reports
+- [x]	Designing user-centric reports with empathy in mind.
+- [x]	Optimization of report generation through meticulous fine-tuning.
+- [x]	Developing a systematic approach to devising a report building plan.
