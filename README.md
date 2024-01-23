@@ -59,3 +59,7 @@ I have  generated % Gross Margins by Quarters of different sub_zone.
 4. _[Division Level Report](https://github.com/souvikmazumdar/Advanced-Excel-Sales-And-Financial-Analysis-For-AtliQ-Hardwares/blob/main/Division%20Level%20Report.pdf)_ 
 5. _[Top 5 and bottom 5 products report](https://github.com/souvikmazumdar/Advanced-Excel-Sales-And-Financial-Analysis-For-AtliQ-Hardwares/blob/main/Top%20%26%20Bottom%205%20Products%20-%20Qty.pdf)_ 
 6. _[Top 5 Countries report](https://github.com/souvikmazumdar/Advanced-Excel-Sales-And-Financial-Analysis-For-AtliQ-Hardwares/blob/main/Top%205%20Countries%20Sales%202021.pdf)_
+7. _[P/L reports(Fiscal Year)](https://github.com/souvikmazumdar/Advanced-Excel-Sales-And-Financial-Analysis-For-AtliQ-Hardwares/blob/main/P%20%26%20L%20Statement%20by%20Fiscal%20Years.pdf)_
+8. _[P/L reports(FY Months)](https://github.com/souvikmazumdar/Advanced-Excel-Sales-And-Financial-Analysis-For-AtliQ-Hardwares/blob/main/P%20%26%20L%20Statement%20by%20Months.pdf)_
+9. _[P/L reports(Markets)](https://github.com/souvikmazumdar/Advanced-Excel-Sales-And-Financial-Analysis-For-AtliQ-Hardwares/blob/main/P%20%26%20L%20Statement%20by%20Markets.pdf)_
+
