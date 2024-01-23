@@ -53,4 +53,5 @@ I have  generated % Gross Margins by Quarters of different sub_zone.
 - [x]	Developing a systematic approach to devising a report building plan.
 
 # Reports : 
-### 1. _[Customer Performance Report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+### 1. _[Customer Performance Report](https://github.com/souvikmazumdar/Advanced-Excel-Sales-And-Financial-Analysis-For-AtliQ-Hardwares/blob/main/Customer%20Performence%20Report.pdf)_ 
+### 2. _[Market Performance Vs Targets](https://github.com/souvikmazumdar/Advanced-Excel-Sales-And-Financial-Analysis-For-AtliQ-Hardwares/blob/main/Market%20Performence%20vs%20Target.pdf)_ 
