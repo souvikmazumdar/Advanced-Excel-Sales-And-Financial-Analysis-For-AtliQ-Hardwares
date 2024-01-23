@@ -55,3 +55,6 @@ I have  generated % Gross Margins by Quarters of different sub_zone.
 # Reports : 
 ### 1. _[Customer Performance Report](https://github.com/souvikmazumdar/Advanced-Excel-Sales-And-Financial-Analysis-For-AtliQ-Hardwares/blob/main/Customer%20Performence%20Report.pdf)_ 
 ### 2. _[Market Performance Vs Targets](https://github.com/souvikmazumdar/Advanced-Excel-Sales-And-Financial-Analysis-For-AtliQ-Hardwares/blob/main/Market%20Performence%20vs%20Target.pdf)_ 
+### 3. _[Top 10 products](https://github.com/souvikmazumdar/Advanced-Excel-Sales-And-Financial-Analysis-For-AtliQ-Hardwares/blob/main/Top%2010%20Products.pdf)_ 
+### 4. _[Division Level Report](https://github.com/souvikmazumdar/Advanced-Excel-Sales-And-Financial-Analysis-For-AtliQ-Hardwares/blob/main/Division%20Level%20Report.pdf)_ 
+### 5. _[Top 5 and bottom 5 products report](https://github.com/souvikmazumdar/Advanced-Excel-Sales-And-Financial-Analysis-For-AtliQ-Hardwares/blob/main/Top%20%26%20Bottom%205%20Products%20-%20Qty.pdf)_ 
